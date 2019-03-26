@@ -5,7 +5,7 @@
 def roll
   rand(1...6)
   
-  roll
+  puts roll
 end
 
 
